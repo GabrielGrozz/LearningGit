@@ -12,9 +12,14 @@ git remote add origin *link do repositório* - estaremos linkando o nosso projet
 
 git push - envia nossos arquivos para a nuvem
 
------- branchs serião divisões ou versões diferentes do seu código
-
 git reflog - conseguimos ver as versões que foram adicionadas até agora
 
+git reset --hard *id da versão* - voltamos nossos arquivos lovais para a versão específicada
+
+------ branchs serião divisões ou versões diferentes do seu código
+
+git branch - mostra as branchs disponíveis
+
+git branch *nome da branch nova* - adiciona uma branch
 
 */
