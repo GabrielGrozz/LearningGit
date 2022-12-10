@@ -24,6 +24,11 @@ git branch *nome da branch nova* - adiciona uma branch
 
 git checkout *nome da branch* - muda para a branch passada
 
+git pull - irá puxar as atualizações da branch para nossa máquina para termos certeza que estamos atualizados
+
 git merge *nome da branch que será puxada* - irá atualizar a branch que você esta com a branch passada
+
+git checkout -g *nome da nova branch* *branch na quala a nova branch irá se basear*
+Assim criamos uma nova branch e ja entramos nela automaticamente
 
 */
