@@ -14,7 +14,7 @@ git push - envia nossos arquivos para a nuvem
 
 ------ branchs serião divisões ou versões diferentes do seu código
 
-
+git reflog - conseguimos ver as versões que foram adicionadas até agora
 
 
 */
