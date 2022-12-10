@@ -24,6 +24,6 @@ git branch *nome da branch nova* - adiciona uma branch
 
 git checkout *nome da branch* - muda para a branch passada
 
-git merge - urá unir duas branchs
+git merge *nome da branch que será puxada* - irá atualizar a branch que você esta com a branch passada
 
 */
