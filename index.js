@@ -22,4 +22,8 @@ git branch - mostra as branchs disponíveis
 
 git branch *nome da branch nova* - adiciona uma branch
 
+git checkout *nome da branch* - muda para a branch passada
+
+git merge - urá unir duas branchs
+
 */
